@@ -1,3 +1,6 @@
+body{
+    background-color:black;
+}
 .container{
     position: relative;
     text-align:center;
@@ -18,3 +21,37 @@
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    color: antiquewhite;
   }
+
+.napping{
+    position: relative;
+    text-align: center;
+   
+
+}
+.oops{
+    filter: drop-shadow(5px);
+    filter: contrast(-50%);
+    filter: blur(2px);
+    filter: brightness(5px);
+   
+}
+
+.choco{
+    position: absolute;
+    top: 65px;
+    left: 9px;
+    margin-left: 100px;
+    font-size: 50px;
+   font-style: italic;
+    color:white;
+    
+}
+.yeah{
+    position: relative;
+    bottom: 650px;
+    left: 8px;
+    margin-left:200px;
+    font-size: medium;
+    color:black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
