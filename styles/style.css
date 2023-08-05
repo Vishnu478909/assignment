@@ -1,0 +1,20 @@
+.container{
+    position: relative;
+    text-align:center;
+    color:white;
+    
+}
+.domain{
+    filter: blur(4px);
+    filter: brightness(10px);
+}
+
+.wrapper{
+   position: absolute; 
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   font-size: 50px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: antiquewhite;
+  }
