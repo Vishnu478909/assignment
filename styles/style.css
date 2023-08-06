@@ -55,3 +55,12 @@ body{
     color:black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+.bravo{
+    position: relative;
+    text-align:auto;
+    bottom: 1050px;
+    left: 400px;
+    color: black;
+    font-size: medium;
+}
+
