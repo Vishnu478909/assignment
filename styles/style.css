@@ -49,40 +49,163 @@ body{
 .yeah{
     position: relative;
     bottom: 650px;
-    left: 8px;
+    left: -700px;
     margin-left:200px;
-    font-size: medium;
+    font-size: x-large;
     color:black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-.bravo{
-    position: relative;
-    text-align:auto;
-    bottom: 1042px;
-    left: 500px;
-    color:whitesmoke;
-    font-size: medium;
+   
 }
 
-.pollard{
-    position: relative;
-    text-align: auto;
-    color: white;
-    bottom:1438px;
-    left:620px;
-}
-
-.mango{
-    position:relative;
-    bottom:1828px;
-    color:aliceblue;
-    left:800px;
-    font-size: medium;
-}
 
 .Vk{
     position:relative;
     color:aliceblue;
-    bottom: 2221px;
+    bottom: 2245px;
     left: 950px;
+
+}
+.loop{
+    color: aliceblue;
+}
+
+.virat{
+
+        position: relative;
+        text-align:center;
+        color:white;
+       
+       
+        
+}
+.trigger{
+    background-color: rgb(243, 243, 249);
+    background-image: url(https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F0c007142-52cc-11ed-a03e-f7ac672386f7.jpg?crop=2592%2C1728%2C373%2C263);
+    
+
+}
+.nama{
+    filter: blur(5px);
+}
+.second{
+    position: relative;
+    bottom: 850px;
+    right:1000px;
+}
+
+
+
+
+
+.jailer{
+    position: relative;
+    bottom:1207px;
+    left: -150px;
+ color: antiquewhite;
+   font-size:x-large ;
+   
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+}
+.virat {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+.nama {
+    width: 80%;
+    max-width: 1100px;
+    height: auto;
+    filter: none;
+}
+.second {
+    width: 100px;
+    height: 70px;
+}
+.third {
+    margin-top: 10px;
+}
+table {
+    border-collapse: collapse;
+    width: 80%;
+    max-width: 800px;
+    margin: 20px;
+}
+th, td {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 6px;
+}
+th {
+    background-color: #d9bebe;
+}
+.vankkam {
+    width: 100%;
+    max-width: 800px;
+}
+.adra, .move {
+    margin: 20px;
+}
+.sad {
+    width: 80%;
+    max-width: 1100px;
+    height: auto;
+   
+}
+.eligible {
+    width: 100px;
+    height: 70px;
+    color: #dddddd;
+}
+.nine {
+    margin-top: 20px;
+    font-size: 28px;
+    color: white;
+}
+.cmon {
+    margin: 20px;
+    max-width: 700px;
+    color: white;
+}
+.ops{
+    
+        margin: 20px;
+        max-width: 700px;
+        font-size: large;
+        color: white;
+    
+}
+.india{
+    margin: 20px;
+    max-width: 700px;
+    font-size: larger;
+    color: white;
+}
+.superman{
+    font-size: larger;
+    color: whitesmoke;
+}
+.bingo{
+    font-size: larger;
+    color: #dddddd;
+
+}
+.white{
+    color: #dddddd;
+}
+.blue{
+    color: #dddddd;
+}
+.silver{
+    color:white
 }
