@@ -209,3 +209,34 @@ th {
 .silver{
     color:white
 }
+.nakkala{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:white;
+    
+}
+.podra{
+    color: white;
+}
+
+.vrigger{
+    background-color: aliceblue;
+    background-image: url(https://imgnew.outlookindia.com/public/uploads/articles/2020/3/27/Dhoni-Pain-PTI.jpg);
+   
+
+}
+
+.pranesh{
+  table-layout: fixed;
+  font-size: large;
+}
+.macha{
+    position: relative;
+    color: black;
+    font-size: large;
+    left:8px;
+}
