@@ -301,8 +301,52 @@ th {
 
 .tamil {
     background-color: aliceblue;
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRerFSGf4Bqp_8NFL6QHandUGkeg3Pnf-kgJbK8RdMsUHduHnZ6CHjOAOep6p3HYrsR6NyA&s);
     background-color:black;
     }
+.rid{
+    background-color: #dddddd;
+    
+    background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXwBFRcXHhoeOyEhO3xTRlN8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fP/AABEIAIIAaAMBIgACEQEDEQH/xAAaAAACAwEBAAAAAAAAAAAAAAAAAQIDBAUG/8QALxAAAgEDAwMDAwIHAQAAAAAAAAECAwQREiExBUFREyJhMnGBQpEUFSNiobHBBv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDzqGCGAAAASApncRW0fcyPq1eUtvsBpGVU5VHzh/OCxZay/OAJIZEkAEiIwBjEwAzjAYCM91Uaajvjlmox3cX6ifZoCuM2nsWSryfwTtLOVxPTGLfnB3rXo9KGPUhl/IHAhcTi3jjwWTuNSynh4PYx6bZ6MO3hx4OT1bpdtRoupTWAOTSqKpBSX5LDJTxTr6YS1RZrAYAAAwBgBSiSEhgMou4+yMvDNBTdTxFQxnV38AWdP6jG0ksw2O9Lq1BUY1t3FrhLueTVKb3SPZ2VhTh0yjRkk245k8d2Bih/6GVSemnbSa7GuVWn1C3lFLEk94vlM5/8luIXWYSlpzs4yXH5OrQs50N6k9cn3fIHlq9JQvFhbZLDcrJVadW5m5YptpxglnbvkxSWmco5zhtAIYgAGAMAKySENASRTdL2J+GXIhcR1UJY5W6Aj60IelJxzGLTa8nqqPU7WtogqqjOUU0n3PD684XY6NhfTtJqUfpjwmtgPXQk08Fd1cqnByk+EYLbrVO6noaxLGzRzb+9lXqShDOlPC+QOlbyVPpquZNpvW3HtLL2ycZ5bbfL5LpV6zt4285t04cRKsAIYAAmAMAIDBDAaGIrrVo0Y/3PhAYasfSrSiuz2OlY3d08U6dNSz+Dk5ect7l1OrOL9rwwOhcVY0rh5ioyxiWCXS6Dq1lVmvan7V5ZRQt3UeqvLK8Lud+zpStriMalPTmGYPxvuvvwBz7yireNOTkpOUnGTXaSKcB1apTldzhR+lPMvuZ6NfHtnx2YF+BYJLDWU8oGgIMBtABBClONNZm8Iz1rlwk4wSbXLZknKU5Zk8sDRVvJPamtK8vkzNuTy3liAAL6cNSTim5rslnJRg12VapTqqVPlf7A6XTlUhXjUr0mqcH+pNb9uxt6p1Kan/TmmnTWGv0PLz+eDV/NKFSw1acNwxOEvPDX7nm6lTUlHS44eWn5ArXG7y3ywYMW/kBxnKD9rwaIXKe1RY+UZwA3bSWU8ryBjhOVN5j+wAY85bbAiSQCSDBLjcGgNXT8K8otruxVqiV1N00opTeyI2c1CvTlLiMk2Qm/6sscOUv+gbJzTgqnnsZ853fLIqTcdPZPI8gMWQbD7gNDIg2BLIFWdwAoJIiNAT7CXGPAIH5AlB4kiVWKjUnGL1JS2fkrLHJS07YaWG/IAtkSyREBP5YZI5DK8gSEzRRdP+DudTh6mYaNWM492cZ/HHwT00fUqb0kpWsNPuWFPTDP2edX+QMOQNFz6f8ADWvp6NXpv1MYzq1Pnvxjn4ADENAAEkCAABfSSQAA+6GIAESAABkZfSwACK4AAA//2Q==);
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
 
-   
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+  }
+
+  /* Set text color explicitly for the table headers */
+  th {
+    color: black; /* Black text color */
+    background-color: white; /* White background color */
+  }
+
+  /* Set text color explicitly for the table data */
+  td {
+    color: black; /* Black text color */
+    background-color: white; /* White background color */
+  }
+
+  /* Additional styling for table headers of different levels */
+h3 {
+    background-color: lightgray; /* Light gray background for h3 headers */
+    text-align: center;
+  }
+
+h4 {
+    background-color: lightgray; /* Light gray background for h4 headers */
+    text-align: center;
+  }
+/* Set heading font color*/
+.MI{
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-variant-numeric: proportional-nums;
+    font-weight: bolder;
+
+}
